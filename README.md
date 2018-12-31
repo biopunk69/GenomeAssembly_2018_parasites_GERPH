@@ -35,5 +35,4 @@ cd ./runTrimmomatic_sp.sh
 # Es importante mencionar que los anteriores archivos sirven posteriormente
 # para las estrategias de ensamblaje.
 #
-#
 # END
